@@ -1,0 +1,10 @@
+b-alive/
+│
+├── index.html
+├── styles/
+│   └── style.css
+└── images/
+    └── logo.png
+    └── poster1.jpg
+    └── poster2.jpg
+    └── poster3.jpg
