@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>B Alive: Techos Verdes Comunitarios</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="images/logo.png" alt="B Alive Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#home">Inicio</a></li>
+                <li><a href="#about">Sobre Nosotros</a></li>
+                <li><a href="#how-to-help">Cómo Ayudar</a></li>
+                <li><a href="#contact">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h1>Bienvenidos a B Alive</h1>
+            <p>Transformemos la Ciudad de México con techos verdes comunitarios.</p>
+            <img src="images/poster1.jpg" alt="Poster de Recolección de Agua">
+        </section>
+
+        <section id="about">
+            <h2>Sobre Nosotros</h2>
+            <p>B Alive es una iniciativa para reducir el calor urbano y mejorar la calidad del aire en la CDMX a través de techos verdes.</p>
+            <img src="images/poster2.jpg" alt="Poster de Techos Verdes">
+        </section>
+
+        <section id="how-to-help">
+            <h2>Cómo Ayudar</h2>
+            <h3>Recolecta Agua</h3>
+            <p>¡Cada gota cuenta! Recolecta agua en casa y llévala a nuestros centros de recolección. Asegúrate de que el agua esté libre de jabón y residuos.</p>
+            <img src="images/poster3.jpg" alt="Poster de Participación Comunitaria">
+            
+            <h3>Especificaciones para el Estado del Agua:</h3>
+            <ul>
+                <li><strong>Agua Aceptada:</strong> Agua de ducha (sin jabón), agua de lluvia, agua de lavado de frutas y verduras.</li>
+                <li><strong>Agua No Aceptada:</strong> Agua con detergentes, jabón, residuos orgánicos o químicos.</li>
+            </ul>
+
+            <h3>Voluntariado</h3>
+            <p>Únete a nuestros programas de voluntariado y ayuda a mantener los techos verdes. Inscríbete en nuestro sitio web.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contacto</h2>
+            <p>Para más información, contáctanos a través de nuestro correo: <a href="mailto:info@balive.com">info@balive.com</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 B Alive. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
